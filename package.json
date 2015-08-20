@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Demo package for Gulp boilerplate task factories",
   "scripts": {
-    "postinstall": "example/link.sh",
+    "postinstall": "boilerplate/link.sh",
     "build": "gulp build",
     "watch": "gulp watch"
   },
